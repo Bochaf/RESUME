@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Website</title>
+</head>
+<body>
+    <!-- Visible content goes here -->
+</body>
+</html>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <!-- Main content goes here -->
+</body>
+<main>
+    <section>
+        <h2>About Us</h2>
+        <p>This is a sample website demonstrating basic HTML structure. We aim to teach the fundamentals of web development.</p>
+    </section>
+    <section>
+         <h2>Our Services</h2>
+         <ul>
+             <li>Web Development</li>
+             <li>Web Designing</li>
+             <li>SEO</li>
+         </ul>
+    </section>
+</main>
+    <footer>
+        <p>&copy; 2024 My Simple Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My First Website</title>
+  <link rel="stylesheet" href="css/linear-gradient.css" type="text/css">
+</head>
+<body>
+  <header>
+    <h1>Hello, world!</h1>
+    <p>This site is built with HTML and CSS.</p>
+  </header>
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>I am learning how to code websites from scratch.</p>
+    </section>
+    <section>
+      <h2>Projects</h2>
+      <ul>
+        <li>Portfolio landing page</li>
+        <li>Product showcase</li>
+        <li>Responsive blog layout</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>Built with ❤️ using HTML & CSS.</p>
+  </footer>
+</body>
+</html>
